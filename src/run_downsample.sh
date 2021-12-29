@@ -1,0 +1,1 @@
+spark-submit --driver-memory 16g --executor-memory 16g --num-executors 10 --executor-cores 2 downsample.py 

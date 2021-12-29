@@ -1,0 +1,108 @@
+Start Training for (5, 0.1, 1)
+Finish Training for (5, 0.1, 1)
+Start Evaluating for (5, 0.1, 1)
+(5, 0.1, 1) map score:  0.028434069301639126 ndcg score:  0.039343381275137056 mpa score:  0.00018604651162790702
+Start Training for (5, 0.1, 5)
+Finish Training for (5, 0.1, 5)
+Start Evaluating for (5, 0.1, 5)
+(5, 0.1, 5) map score:  0.028355373157014745 ndcg score:  0.043347063638755776 mpa score:  0.0002325581395348837
+Start Training for (5, 0.1, 10)
+Finish Training for (5, 0.1, 10)
+Start Evaluating for (5, 0.1, 10)
+(5, 0.1, 10) map score:  0.03377138998184495 ndcg score:  0.05121194356498685 mpa score:  0.00027906976744186045
+Start Training for (5, 1, 1)
+Finish Training for (5, 1, 1)
+Start Evaluating for (5, 1, 1)
+(5, 1, 1) map score:  0.02376746116790716 ndcg score:  0.030319675962959345 mpa score:  0.00013953488372093022
+Start Training for (5, 1, 5)
+Finish Training for (5, 1, 5)
+Start Evaluating for (5, 1, 5)
+(5, 1, 5) map score:  0.0023255813953488376 ndcg score:  0.010589313892881536 mpa score:  9.302325581395348e-05
+Start Training for (5, 1, 10)
+Finish Training for (5, 1, 10)
+Start Evaluating for (5, 1, 10)
+(5, 1, 10) map score:  0.009366503946716795 ndcg score:  0.028614655284147566 mpa score:  0.0002325581395348837
+Start Training for (5, 10, 1)
+Finish Training for (5, 10, 1)
+Start Evaluating for (5, 10, 1)
+(5, 10, 1) map score:  0.00039416633819471805 ndcg score:  0.0039370652929949165 mpa score:  4.651162790697674e-05
+Start Training for (5, 10, 5)
+Finish Training for (5, 10, 5)
+Start Evaluating for (5, 10, 5)
+(5, 10, 5) map score:  6.588049278608604e-05 ndcg score:  0.0027464451214618078 mpa score:  4.651162790697674e-05
+Start Training for (5, 10, 10)
+Finish Training for (5, 10, 10)
+Start Evaluating for (5, 10, 10)
+(5, 10, 10) map score:  0.0018414174849232389 ndcg score:  0.020653682736689497 mpa score:  0.0002790697674418605
+Start Training for (10, 0.1, 1)
+Finish Training for (10, 0.1, 1)
+Start Evaluating for (10, 0.1, 1)
+(10, 0.1, 1) map score:  0.009837419330202008 ndcg score:  0.02436969380969733 mpa score:  0.00018604651162790705
+Start Training for (10, 0.1, 5)
+Finish Training for (10, 0.1, 5)
+Start Evaluating for (10, 0.1, 5)
+(10, 0.1, 5) map score:  0.0007038595672165084 ndcg score:  0.01021928351806743 mpa score:  0.00013953488372093022
+Start Training for (10, 0.1, 10)
+Finish Training for (10, 0.1, 10)
+Start Evaluating for (10, 0.1, 10)
+(10, 0.1, 10) map score:  0.00042690651210867795 ndcg score:  0.009123360801679374 mpa score:  0.00013953488372093025
+Start Training for (10, 1, 1)
+Finish Training for (10, 1, 1)
+Start Evaluating for (10, 1, 1)
+(10, 1, 1) map score:  0.004083033940723849 ndcg score:  0.015661261752697626 mpa score:  0.00013953488372093028
+Start Training for (10, 1, 5)
+Finish Training for (10, 1, 5)
+Start Evaluating for (10, 1, 5)
+(10, 1, 5) map score:  0.0011378699078770805 ndcg score:  0.010874787587619183 mpa score:  0.00013953488372093022
+Start Training for (10, 1, 10)
+Finish Training for (10, 1, 10)
+Start Evaluating for (10, 1, 10)
+(10, 1, 10) map score:  0.0005487620701149744 ndcg score:  0.009455381384422604 mpa score:  0.00013953488372093025
+Start Training for (10, 10, 1)
+Finish Training for (10, 10, 1)
+Start Evaluating for (10, 10, 1)
+(10, 10, 1) map score:  0.0009302325581395347 ndcg score:  0.004947582640775888 mpa score:  4.651162790697674e-05
+Start Training for (10, 10, 5)
+Finish Training for (10, 10, 5)
+Start Evaluating for (10, 10, 5)
+(10, 10, 5) map score:  8.852521772418416e-05 ndcg score:  0.004334489432996286 mpa score:  9.302325581395348e-05
+Start Training for (10, 10, 10)
+Finish Training for (10, 10, 10)
+Start Evaluating for (10, 10, 10)
+(10, 10, 10) map score:  0.00017889087656529517 ndcg score:  0.0033064716779304813 mpa score:  4.651162790697675e-05
+Start Training for (20, 0.1, 1)
+Finish Training for (20, 0.1, 1)
+Start Evaluating for (20, 0.1, 1)
+(20, 0.1, 1) map score:  0.009128640523989363 ndcg score:  0.024670018376861273 mpa score:  0.00018604651162790707
+Start Training for (20, 0.1, 5)
+Finish Training for (20, 0.1, 5)
+Start Evaluating for (20, 0.1, 5)
+(20, 0.1, 5) map score:  0.019379844961240306 ndcg score:  0.026300691943522265 mpa score:  9.302325581395347e-05
+Start Training for (20, 0.1, 10)
+Finish Training for (20, 0.1, 10)
+Start Evaluating for (20, 0.1, 10)
+(20, 0.1, 10) map score:  0.011627906976744186 ndcg score:  0.01991179504902378 mpa score:  9.30232558139535e-05
+Start Training for (20, 1, 1)
+Finish Training for (20, 1, 1)
+Start Evaluating for (20, 1, 1)
+(20, 1, 1) map score:  0.0023410457877627304 ndcg score:  0.013037061607061052 mpa score:  0.00013953488372093022
+Start Training for (20, 1, 5)
+Finish Training for (20, 1, 5)
+Start Evaluating for (20, 1, 5)
+(20, 1, 5) map score:  0.006765327695560253 ndcg score:  0.015483622160131895 mpa score:  9.302325581395348e-05
+Start Training for (20, 1, 10)
+Finish Training for (20, 1, 10)
+Start Evaluating for (20, 1, 10)
+(20, 1, 10) map score:  0.009689922480620153 ndcg score:  0.01829962198096315 mpa score:  9.302325581395348e-05
+Start Training for (20, 10, 1)
+Finish Training for (20, 10, 1)
+Start Evaluating for (20, 10, 1)
+(20, 10, 1) map score:  0.00036337209302325575 ndcg score:  0.0038615731678125088 mpa score:  4.651162790697674e-05
+Start Training for (20, 10, 5)
+Finish Training for (20, 10, 5)
+Start Evaluating for (20, 10, 5)
+(20, 10, 5) map score:  0.0 ndcg score:  0.0 mpa score:  0.0
+Start Training for (20, 10, 10)
+Finish Training for (20, 10, 10)
+Start Evaluating for (20, 10, 10)
+(20, 10, 10) map score:  0.006061995460080276 ndcg score:  0.02030364187176419 mpa score:  0.00018604651162790702
